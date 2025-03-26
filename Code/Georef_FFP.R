@@ -1,3 +1,4 @@
+#https://daviddhofmann.github.io/post/satelliteimagery/
 #convert ffp graphical output to georeferenced contours
 library(sf)
 library(terra)

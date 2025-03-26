@@ -10,9 +10,9 @@
 #===============================================================================
 #===Change filepaths as needed before proceeding================================
 
-#PathtoFluxData <- "X:/moore/FluxNetData/AMF_US-SRM_FLUXNET_SUBSET_2004-2023_3-6/AMF_US-SRM_FLUXNET_SUBSET_HH_2004-2023_3-6.csv"
-PathtoFluxData <- "X:/moore/FluxNetData/AMF_US-SRG_FLUXNET_SUBSET_2008-2023_4-6/AMF_US-SRG_FLUXNET_SUBSET_HH_2008-2023_4-6.csv"
-SiteCode <- "US-SRG"
+PathtoFluxData <- "X:/moore/FluxNetData/AMF_US-SRM_FLUXNET_SUBSET_2004-2023_3-6/AMF_US-SRM_FLUXNET_SUBSET_HH_2004-2023_3-6.csv"
+#PathtoFluxData <- "X:/moore/FluxNetData/AMF_US-SRG_FLUXNET_SUBSET_2008-2023_4-6/AMF_US-SRG_FLUXNET_SUBSET_HH_2008-2023_4-6.csv"
+SiteCode <- "US-SRM"
 PathtoFileOutput <- file.path("./Data/FFP_Input_Data", paste0(SiteCode, "_ffp_data.csv"))
 
 #===============================================================================
@@ -39,7 +39,7 @@ MeasHeight <- MeasHeightData%>%
   summarize(max(Height, na.rm = T))%>%
   pull()
 
-DisplaceHeight <- (2/3) * MeasHeight
+DisplaceHeight <- (0.1) * MeasHeight
 
 #===Format data frame for footprint calculation=================================
 ffp_data <- FluxData %>%
