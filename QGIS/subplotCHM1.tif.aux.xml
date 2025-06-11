@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>NEON_D14_SRER_DP3_501000_3518000_CHM</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">5.1799998283386</MDI>
+      <MDI key="STATISTICS_MEAN">1.0740578867833</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">1.2837946153338</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">7.883</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
