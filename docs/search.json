@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "BADMreport.html",
+    "href": "BADMreport.html",
+    "title": "BADM Update 7/30/2025",
+    "section": "",
+    "text": "Biological, Ancillary, Disturbance, and Metadata (BADM) are information that complement the meteorological/flux measurements collected at flux towers by providing context on the site’s environment. These data are submitted by tower PIs and are critical for interpreting ecosystem function, site conditions, and disturbance history. However, though PIs may have large amounts of information for their sites, BADM are frequently under-reported in official data submissions.\nWe are currently compiling and evaluating BADM for 13 flux towers located across Arizona and New Mexico. These sites span a broad elevational gradient and represent diverse ecosystems in the Southwest, offering an opportunity to examine spatial variation in site characteristics."
+  },
+  {
+    "objectID": "BADMreport.html#project-overview",
+    "href": "BADMreport.html#project-overview",
+    "title": "BADM Update 7/30/2025",
+    "section": "",
+    "text": "Biological, Ancillary, Disturbance, and Metadata (BADM) are information that complement the meteorological/flux measurements collected at flux towers by providing context on the site’s environment. These data are submitted by tower PIs and are critical for interpreting ecosystem function, site conditions, and disturbance history. However, though PIs may have large amounts of information for their sites, BADM are frequently under-reported in official data submissions.\nWe are currently compiling and evaluating BADM for 13 flux towers located across Arizona and New Mexico. These sites span a broad elevational gradient and represent diverse ecosystems in the Southwest, offering an opportunity to examine spatial variation in site characteristics."
+  },
+  {
+    "objectID": "BADMreport.html#data-status",
+    "href": "BADMreport.html#data-status",
+    "title": "BADM Update 7/30/2025",
+    "section": "Data Status",
+    "text": "Data Status\nWe summarize the availability of 45 core BADM variables from soils and vegetation metadata groups using the BADM currently available in the AmeriFlux database as well as metadata that have been collected but not submitted.\n\n\n\n\n\n\n\n\n\nMost sites have slightly less than half of the core BADM fields available from either Ameriflux or the site PI. However, when only considering officially submitted data, metadata availability is extremely low across all sites.\n\n\n\n\n\n\n\n\n\nThere are 18 core variables with availability across a majority of the sites when considering both BADM submissions and PI-available data. No variables are available at a majority of the sites using only BADM submissions. The most commonly available data are variables related to soil texture, soil nitrogen and carbon content, and tree metrics. Although a significant amount of metadata has been collected across all sites, only a small portion has been formally submitted to the network."
+  }
+]
